@@ -1,0 +1,6 @@
+name: notion-page-tools
+version: 0.1.0
+description: Safely move one Notion page to the trash and restore it
+provides_tools:
+  - notion_trash_page
+  - notion_restore_page
